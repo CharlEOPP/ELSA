@@ -1,7 +1,26 @@
-#directories to ignore
+# IDE
 .vs/
+*.user
+*.sln
+*.vcxproj*
+*.filters
+
+# Build folders
+build/
 bin/
 bin-int/
 
-#files
-*.user
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Binaries
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.obj
+*.exp
