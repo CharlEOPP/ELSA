@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/ccopp/source/repos/ELSA/build/cmake_install.cmake",
+		"C:/Users/ccopp/source/repos/ELSA/build/ELSA/cmake_install.cmake",
+		"C:/Users/ccopp/source/repos/ELSA/build/ELSA/vendor/spdlog/cmake_install.cmake",
+		"C:/Users/ccopp/source/repos/ELSA/build/Sandbox/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

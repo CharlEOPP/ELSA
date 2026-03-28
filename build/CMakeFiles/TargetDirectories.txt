@@ -1,0 +1,6 @@
+C:/Users/ccopp/source/repos/ELSA/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ccopp/source/repos/ELSA/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/ccopp/source/repos/ELSA/build/ELSA/CMakeFiles/ELSA.dir
+C:/Users/ccopp/source/repos/ELSA/build/ELSA/vendor/spdlog/CMakeFiles/spdlog.dir
+C:/Users/ccopp/source/repos/ELSA/build/ELSA/vendor/spdlog/CMakeFiles/ALL_BUILD.dir
+C:/Users/ccopp/source/repos/ELSA/build/Sandbox/CMakeFiles/Sandbox.dir

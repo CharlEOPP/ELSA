@@ -1,0 +1,3 @@
+[submodule "ELSA/vendor/spdlog"]
+	path = ELSA/vendor/spdlog
+	url = https://github.com/gabime/spdlog

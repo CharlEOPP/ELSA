@@ -2,6 +2,9 @@
   <Configurations>
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="Sandbox/Sandbox.vcxproj" Id="6d0e13c5-676f-44c8-ac3e-66a8145fa3c9" />
+  <Folder Name="/Solution Items/">
+    <File Path="CMakeLists.txt" />
+  </Folder>
   <Project Path="ELSA/ELSA.vcxproj" Id="8e4287b3-0b80-4463-a831-aec066c9f049" />
+  <Project Path="Sandbox/Sandbox.vcxproj" Id="6d0e13c5-676f-44c8-ac3e-66a8145fa3c9" />
 </Solution>
